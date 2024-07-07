@@ -11,13 +11,14 @@ public class rectangle {
             n = sc.nextInt();
 
         // Numerical Rectangle logic
+
         // column loop
         for (int i = 0; i < n; i++) {
+            // row loop
             for(int j = 0; j < n; j++) {
-                // Row loop
-                System.out.print(i + 1);
+                System.out.print(i + 1 + " ");    // used only print to stay in the same line
             }
-            System.out.println("");
+            System.out.println(""); // used println to go to next line in the terminal
         }
     }
 }
