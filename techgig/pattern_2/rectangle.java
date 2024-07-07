@@ -7,8 +7,10 @@ public class rectangle {
         int n;
 
         // User input from range (1 <= n <= 1000)
-        
+        do {
             n = sc.nextInt();
+        }
+        while (n <= 1 && n <= 1000);
 
         // Numerical Rectangle logic
 
