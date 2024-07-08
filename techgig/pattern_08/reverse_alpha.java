@@ -1,3 +1,4 @@
+package techgig.pattern_08;
 import java.util.Scanner;
 
 public class reverse_alpha {

@@ -1,3 +1,4 @@
+package techgig.pattern_06;
 import java.util.Scanner;
 
 public class reverse_numerical {
