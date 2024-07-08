@@ -1,6 +1,6 @@
 # Question 06
 
-### Write a program to display a Descending Numerical Rectangle of height **n** provided by user using an Integer input.
+### Write a program to display a Reverse Number Rectangle of height **n** provided by user using an Integer input.
 
 [Solution](/techgig/pattern_6/reverse_numerical.java)
 
