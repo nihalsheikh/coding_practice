@@ -179,3 +179,20 @@ Rectangle of height n = 5
     5 5 5 5 5
 ```
 </details>
+
+<details>
+    <summary>Pattern 12: Ascending Number Right Angle Triangle 
+    </summary>
+
+[Solution](/techgig/pattern_12/asc_num_right_triangle.java)
+
+Rectangle of height n = 5
+
+```
+    1
+    1 2
+    1 2 3
+    1 2 3 4
+    1 2 3 4 5
+```
+</details>
