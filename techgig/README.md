@@ -33,3 +33,7 @@
 08. Write a program to display a Reverse Alphabet Rectangle of height **n** provided by user using an Integer input.
     - [x] [Solution: Pattern 8](/techgig/pattern_8/reverse_alpha.java)
 <br>
+
+09. Write a program to display a Descending Reverse Alphabet Rectangle of height **n** provided by user using an Integer input.
+    - [x] [Solution: Pattern 9](/techgig/pattern_9/desc_rev_alpha.java)
+<br>

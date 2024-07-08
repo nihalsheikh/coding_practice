@@ -129,3 +129,19 @@ Rectangle of height n = 5
     A A A A A
 ```
 </details>
+
+<details>
+    <summary>Pattern 09: Descending Reverse Alphabet Rectangle</summary>
+
+[Solution](/techgig/pattern_9/desc_rev_alpha.java)
+
+Rectangle of height n = 5
+
+```
+    E D C B A
+    E D C B A
+    E D C B A
+    E D C B A
+    E D C B A
+```
+</details>
