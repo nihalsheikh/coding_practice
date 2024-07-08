@@ -37,3 +37,7 @@
 09. Write a program to display a Descending Reverse Alphabet Rectangle of height **n** provided by user using an Integer input.
     - [x] [Solution: Pattern 9](/techgig/pattern_9/desc_rev_alpha.java)
 <br>
+
+10. Write a program to display a Asterisk Right Angle Triangle of height **n** provided by user using an Integer input.
+    - [x] [Solution: Pattern 10](/techgig/pattern_10/star_right_angle.java)
+<br>

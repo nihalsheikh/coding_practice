@@ -145,3 +145,20 @@ Rectangle of height n = 5
     E D C B A
 ```
 </details>
+
+<details>
+    <summary>Pattern 10: Asterisk Right Angle Triangle 
+    </summary>
+
+[Solution](/techgig/pattern_10/star_right_angle.java)
+
+Rectangle of height n = 5
+
+```
+    *
+    * *
+    * * *
+    * * * *
+    * * * * *
+```
+</details>
