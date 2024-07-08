@@ -13,3 +13,7 @@
 03. Write a program to display a Ascending Number Rectangle of height **n** provided by user using an Integer input.
     - [x] [Solution: Pattern 3](/techgig/pattern_3/rectangle2.java)
 <br>
+
+04. Write a program to display a Alphabet Rectangle of height **n** provided by user using an Integer input.
+    - [x] [Solution: Pattern 3](/techgig/pattern_4/alphabet_rectangle.java)
+<br>
