@@ -41,3 +41,7 @@
 10. Write a program to display a Asterisk Right Angle Triangle of height **n** provided by user using an Integer input.
     - [x] [Solution: Pattern 10](/techgig/pattern_10/star_right_angle.java)
 <br>
+
+11. Write a program to display a Number Right Angle Triangle of height **n** provided by user using an Integer input.
+    - [x] [Solution: Pattern 10](/techgig/pattern_11/num_right_triangle.java)
+<br>
