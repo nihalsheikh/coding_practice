@@ -113,3 +113,19 @@ Rectangle of height n = 5
     5 4 3 2 1
 ```
 </details>
+
+<details>
+    <summary>Pattern 08: Reverse Alphabet Rectangle</summary>
+
+[Solution](/techgig/pattern_8/reverse_alpha.java)
+
+Rectangle of height n = 5
+
+```
+    E E E E E
+    D D D D D
+    C C C C C
+    B B B B B
+    A A A A A
+```
+</details>
