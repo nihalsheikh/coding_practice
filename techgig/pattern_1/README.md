@@ -1,4 +1,4 @@
-# Question
+# Question 01
 
 ### Write a program to display an Asterisk Rectangle `*` of height n provided by the user.
 
