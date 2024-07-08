@@ -64,3 +64,20 @@ Rectangle of height n = 6
     F F F F F
 ```
 </details>
+
+<details>
+    <summary>Pattern 05: Ascending Alphabet Rectangle</summary>
+
+[Solution](/techgig/pattern_5/ascendingalpha.java)
+
+Rectangle of height n = 6
+
+```
+    A B C D E F
+    A B C D E F
+    A B C D E F
+    A B C D E F
+    A B C D E F
+    A B C D E F
+```
+</details>
