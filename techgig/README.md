@@ -21,3 +21,7 @@
 05. Write a program to display a Ascending Alphabet Rectangle of height **n** provided by user using an Integer input.
     - [x] [Solution: Pattern 5](/techgig/pattern_5/ascendingalpha.java)
 <br>
+
+06. Write a program to display a Reverse Number Rectangle of height **n** provided by user using an Integer input.
+    - [x] [Solution: Pattern 6](/techgig/pattern_6/reverse_numerical.java)
+<br>

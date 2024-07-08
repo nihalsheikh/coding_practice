@@ -81,3 +81,19 @@ Rectangle of height n = 6
     A B C D E F
 ```
 </details>
+
+<details>
+    <summary>Pattern 06: Descending Number Rectangle</summary>
+
+[Solution](/techgig/pattern_5/ascendingalpha.java)
+
+Rectangle of height n = 5
+
+```
+    5 5 5 5 5 
+    4 4 4 4 4 
+    3 3 3 3 3 
+    2 2 2 2 2 
+    1 1 1 1 1 
+```
+</details>

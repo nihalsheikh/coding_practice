@@ -2,7 +2,7 @@
 
 ### Write a program to display a Descending Numerical Rectangle of height **n** provided by user using an Integer input.
 
-[Solution](/techgig/pattern_4/alphabet_rectangle.java)
+[Solution](/techgig/pattern_6/reverse_numerical.java)
 
 ### Pattern should look like this:
 
