@@ -25,3 +25,7 @@
 06. Write a program to display a Reverse Number Rectangle of height **n** provided by user using an Integer input.
     - [x] [Solution: Pattern 6](/techgig/pattern_6/reverse_numerical.java)
 <br>
+
+07. Write a program to display a Descending Reverse Number Rectangle of height **n** provided by user using an Integer input.
+    - [x] [Solution: Pattern 7](/techgig/pattern_7/desc_rev_num.java)
+<br>

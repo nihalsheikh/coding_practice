@@ -85,7 +85,7 @@ Rectangle of height n = 6
 <details>
     <summary>Pattern 06: Descending Number Rectangle</summary>
 
-[Solution](/techgig/pattern_5/ascendingalpha.java)
+[Solution](/techgig/pattern_6/reverse_numerical.java)
 
 Rectangle of height n = 5
 
@@ -95,5 +95,21 @@ Rectangle of height n = 5
     3 3 3 3 3 
     2 2 2 2 2 
     1 1 1 1 1 
+```
+</details>
+
+<details>
+    <summary>Pattern 07: Descending Reverse Number Rectangle</summary>
+
+[Solution](/techgig/pattern_7/desc_rev_num.java)
+
+Rectangle of height n = 5
+
+```
+    5 4 3 2 1 
+    5 4 3 2 1 
+    5 4 3 2 1 
+    5 4 3 2 1 
+    5 4 3 2 1
 ```
 </details>
