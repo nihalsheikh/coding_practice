@@ -1,6 +1,6 @@
 # Question 03
 
-### Write a program to display a Numerical Rectangle of height **n** provided by user using an Integer input.
+### Write a program to display a Incremental Numerical Rectangle of height **n** provided by user using an Integer input.
 
 [Solution](/techgig/pattern_3/rectangle2.java)
 
