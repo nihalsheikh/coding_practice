@@ -49,3 +49,7 @@
 12. Write a program to display a Ascending Number Right Angle Triangle of height **n** provided by user using an Integer input.
     - [x] [Solution: Pattern 10](/techgig/pattern_12/asc_num_right_triangle.java)
 <br>
+
+13. Write a program to display a Alphabet Right Angle Triangle of height **n** provided by user using an Integer input.
+    - [x] [Solution: Pattern 10](/techgig/pattern_13/alpha_right_triangle.java)
+<br>

@@ -196,3 +196,20 @@ Rectangle of height n = 5
     1 2 3 4 5
 ```
 </details>
+
+<details>
+    <summary>Pattern 13: Alphabet Right Angle Triangle 
+    </summary>
+
+[Solution](/techgig/pattern_13/alpha_right_triangle.java)
+
+Rectangle of height n = 5
+
+```
+    A
+    B B
+    C C C
+    D D D D
+    E E E E E 
+```
+</details>
