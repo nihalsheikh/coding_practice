@@ -1,4 +1,3 @@
-package techgig.pattern_09;
 import java.util.Scanner;
 
 public class desc_rev_alpha {

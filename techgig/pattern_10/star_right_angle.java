@@ -3,11 +3,10 @@ import java.util.Scanner;
 public class star_right_angle {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
-        char alpha = 65;
         int n;
 
         do {
-            n =sc.nextInt();
+            n = sc.nextInt();
         }
         while (n <= 1 && n <= 26);
 
