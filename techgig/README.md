@@ -10,6 +10,6 @@
     - [x] [Solution: Pattern 2](/techgig/pattern_2/rectangle.java)
 <br>
 
-03. Write a program to display a Incremental Numerical Rectangle of height **n** provided by user using an Integer input.
+03. Write a program to display a Ascending Number Rectangle of height **n** provided by user using an Integer input.
     - [x] [Solution: Pattern 3](/techgig/pattern_3/rectangle2.java)
 <br>
