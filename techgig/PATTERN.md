@@ -333,3 +333,20 @@ Rectangle of height n = 5
 ```
 </details>
 
+<details>
+    <summary>Pattern 21: Descending Reverse Numerical Right Triangle
+    </summary>
+
+[Solution](/techgig/pattern_21/desc_rev_num_right_triangle.java)
+
+Rectangle of height n = 5
+
+```
+    5 4 3 2 1
+    5 4 3 2
+    5 4 3
+    5 4
+    5
+```
+</details>
+

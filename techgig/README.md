@@ -81,3 +81,7 @@
 20. Write a program to display a Reverse Numerical Right Triangle of height **n** provided by user using an Integer input.
     - [x] [Solution: Pattern 20](/techgig/pattern_20/rev_num_right_triangle.java)
 <br>
+
+21. Write a program to display a Descending Reverse Numerical Right Triangle of height **n** provided by user using an Integer input.
+    - [x] [Solution: Pattern 21](/techgig/pattern_21/desc_rev_num_right_triangle.java)
+<br>
