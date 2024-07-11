@@ -299,3 +299,20 @@ Rectangle of height n = 5
 ```
 </details>
 
+<details>
+    <summary>Pattern 19: Ascending Reverse Alphabet Right Triangle
+    </summary>
+
+[Solution](/techgig/pattern_19/asc_rev_alpha_right_triangle.java)
+
+Rectangle of height n = 5
+
+```
+    A B C D E
+    A B C D
+    A B C
+    A B
+    A 
+```
+</details>
+
