@@ -213,3 +213,20 @@ Rectangle of height n = 5
     E E E E E 
 ```
 </details>
+
+<details>
+    <summary>Pattern 14: Ascending Alphabet Right Angle Triangle 
+    </summary>
+
+[Solution](/techgig/pattern_14/asc_alpha_right_triangle.java)
+
+Rectangle of height n = 5
+
+```
+    A
+    A B
+    A B C
+    A B C D
+    A B C D E
+```
+</details>
