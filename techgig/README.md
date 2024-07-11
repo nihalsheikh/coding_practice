@@ -89,3 +89,7 @@
 22. Write a program to display a Descending Alphabet Reverse Right Triangle of height **n** provided by user using an Integer input.
     - [x] [Solution: Pattern 22](/techgig/pattern_22/desc_alpha_rev_right_triangle.java)
 <br>
+
+23. Write a program to display a Reverse Descending Alphabet Right Triangle of height **n** provided by user using an Integer input.
+    - [x] [Solution: Pattern 23](/techgig/pattern_23/rev_desc_alpha_right_triangle.java)
+<br>
