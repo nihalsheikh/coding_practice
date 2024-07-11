@@ -350,3 +350,20 @@ Rectangle of height n = 5
 ```
 </details>
 
+<details>
+    <summary>Pattern 22: Descending Alphabet Reverse Right Triangle
+    </summary>
+
+[Solution](/techgig/pattern_22/desc_alpha_rev_right_triangle.java)
+
+Rectangle of height n = 5
+
+```
+    E E E E E
+    D D D D
+    C C C
+    B B
+    A
+```
+</details>
+
