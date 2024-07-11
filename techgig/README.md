@@ -55,9 +55,9 @@
 <br>
 
 14. Write a program to display a Ascending Alphabet Right Angle Triangle of height **n** provided by user using an Integer input.
-    - [x] [Solution: Pattern 13](/techgig/pattern_14/asc_alpha_right_triangle.java)
+    - [x] [Solution: Pattern 14](/techgig/pattern_14/asc_alpha_right_triangle.java)
 <br>
 
-14. Write a program to display a Reverse Asterisk Triangle of height **n** provided by user using an Integer input.
-    - [x] [Solution: Pattern 13](/techgig/pattern_15)
+15. Write a program to display a Reverse Asterisk Triangle of height **n** provided by user using an Integer input.
+    - [x] [Solution: Pattern 15](/techgig/pattern_15/rev_ast_triangle.java)
 <br>

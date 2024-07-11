@@ -230,3 +230,20 @@ Rectangle of height n = 5
     A B C D E
 ```
 </details>
+
+<details>
+    <summary>Pattern 15: Reverse Asterisk Triangle 
+    </summary>
+
+[Solution](/techgig/pattern_15/rev_ast_triangle.java)
+
+Rectangle of height n = 5
+
+```
+    * * * * *
+    * * * *
+    * * *
+    * *
+    *
+```
+</details>
