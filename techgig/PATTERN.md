@@ -247,3 +247,20 @@ Rectangle of height n = 5
     *
 ```
 </details>
+
+<details>
+    <summary>Pattern 16: Numbered Reverse Right Triangle 
+    </summary>
+
+[Solution](/techgig/pattern_16/rev_num_right_triangle.java)
+
+Rectangle of height n = 5
+
+```
+    1 1 1 1 1
+    2 2 2 2
+    3 3 3
+    4 4
+    5 
+```
+</details>

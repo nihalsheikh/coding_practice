@@ -61,3 +61,7 @@
 15. Write a program to display a Reverse Asterisk Triangle of height **n** provided by user using an Integer input.
     - [x] [Solution: Pattern 15](/techgig/pattern_15/rev_ast_triangle.java)
 <br>
+
+16. Write a program to display a Numbered Reverse Right Triangle of height **n** provided by user using an Integer input.
+    - [x] [Solution: Pattern 16](/techgig/pattern_16/rev_num_right_triangle.java)
+<br>
