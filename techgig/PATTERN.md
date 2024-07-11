@@ -264,3 +264,21 @@ Rectangle of height n = 5
     5 
 ```
 </details>
+
+<details>
+    <summary>Pattern 17: Ascending Reverse Number Right Triangle
+    </summary>
+
+[Solution](/techgig/pattern_17/asc_rev_num_right_triangle.java)
+
+Rectangle of height n = 5
+
+```
+    1 2 3 4 5
+    1 2 3 4
+    1 2 3
+    1 2
+    1
+```
+</details>
+
