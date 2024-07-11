@@ -282,3 +282,20 @@ Rectangle of height n = 5
 ```
 </details>
 
+<details>
+    <summary>Pattern 18: Reverse Alphabet Right Triangle
+    </summary>
+
+[Solution](/techgig/pattern_18/rev_alpha_right_triangle.java)
+
+Rectangle of height n = 5
+
+```
+    A A A A A
+    B B B B
+    C C C
+    D D
+    E
+```
+</details>
+

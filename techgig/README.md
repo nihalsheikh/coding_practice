@@ -69,3 +69,7 @@
 17. Write a program to display a Ascending Reverse Number Right Triangle of height **n** provided by user using an Integer input.
     - [x] [Solution: Pattern 17](/techgig/pattern_17/asc_rev_num_right_triangle.java)
 <br>
+
+18. Write a program to display a Reverse Alphabet Right Triangle of height **n** provided by user using an Integer input.
+    - [x] [Solution: Pattern 18](/techgig/pattern_18/rev_alpha_right_triangle.java)
+<br>
