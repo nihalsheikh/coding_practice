@@ -384,3 +384,20 @@ Rectangle of height n = 5
 ```
 </details>
 
+<details>
+    <summary>Pattern 24: Asterisk Left Triangle
+    </summary>
+
+[Solution](/techgig/pattern_24/ast_left_triangle.java)
+
+Rectangle of height n = 5
+
+```
+       *
+      **
+     ***
+    ****
+   *****
+```
+</details>
+
