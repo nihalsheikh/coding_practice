@@ -422,7 +422,7 @@ Rectangle of height n = 5
     <summary>Pattern 26: Incrementing Ascending Number Left Triangle
     </summary>
 
-[Solution](/techgig/pattern_26)
+[Solution](/techgig/pattern_26/inc_asc_num_left_tri.java)
 
 Rectangle of height n = 5
 

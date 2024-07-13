@@ -2,7 +2,7 @@
 
 ### Write a program to display a Incrementing Ascending Number Left Triangle of height **n** provided by user using an Integer input.
 
-[Solution](/techgig/pattern_26)
+[Solution](/techgig/pattern_26/inc_asc_num_left_tri.java)
 
 ### Pattern should look like this:
 
