@@ -98,3 +98,11 @@
 24. Write a program to display a Asterisk Left Triangle of height **n** provided by user using an Integer input.
     - [x] [Solution: Pattern 24](/techgig/pattern_24/ast_left_triangle.java)
 <br>
+
+25. Write a program to display a Ascending Number Left Triangle of height **n** provided by user using an Integer input.
+    - [x] [Solution: Pattern 25](/techgig/pattern_25/asc_num_left_triangle.java)
+<br>
+
+26. Write a program to display a Incrementing Ascending Number Left Triangle of height **n** provided by user using an Integer input.
+    - [x] [Solution: Pattern 26](/techgig/pattern_26)
+<br>

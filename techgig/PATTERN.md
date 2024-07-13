@@ -401,3 +401,37 @@ Rectangle of height n = 5
 ```
 </details>
 
+<details>
+    <summary>Pattern 25: Ascending Number Left Triangle
+    </summary>
+
+[Solution](/techgig/pattern_25/asc_num_left_triangle.java)
+
+Rectangle of height n = 5
+
+```
+            1
+          2 2
+        3 3 3
+      4 4 4 4
+    5 5 5 5 5
+```
+</details>
+
+<details>
+    <summary>Pattern 26: Incrementing Ascending Number Left Triangle
+    </summary>
+
+[Solution](/techgig/pattern_26)
+
+Rectangle of height n = 5
+
+```
+            1
+          1 2
+        1 2 3
+      1 2 3 4
+    1 2 3 4 5
+```
+</details>
+
