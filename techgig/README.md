@@ -114,3 +114,7 @@
 28. Write a program to display a Ascending Alphabet Left Triangle of height **n** provided by user using an Integer input.
     - [x] [Solution: Pattern 28](/techgig/pattern_28/inc_asc_alp_left_tri.java)
 <br>
+
+29. Write a program to display a Astersik Inverted Right Triangle of height **n** provided by user using an Integer input.
+    - [x] [Solution: Pattern 29](/techgig/pattern_29/inv_ast_rig_tri.java)
+<br>

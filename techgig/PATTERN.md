@@ -469,3 +469,20 @@ Rectangle of height n = 5
 ```
 </details>
 
+<details>
+    <summary>Pattern 29: Astersik Inverted Right Triangle
+    </summary>
+
+[Solution](/techgig/pattern_29/inv_ast_rig_tri.java)
+
+Rectangle of height n = 5
+
+```
+    * * * * *
+      * * * *
+        * * *
+          * *
+            * 
+```
+</details>
+
