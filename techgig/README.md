@@ -98,5 +98,3 @@
 24. Write a program to display a Asterisk Left Triangle of height **n** provided by user using an Integer input.
     - [x] [Solution: Pattern 24](/techgig/pattern_24/ast_left_triangle.java)
 <br>
-=======
->>>>>>> 45dc0e2ffb765de2da116c4c60f5e11f4e74cc1c
