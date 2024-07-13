@@ -118,3 +118,7 @@
 29. Write a program to display a Astersik Inverted Right Triangle of height **n** provided by user using an Integer input.
     - [x] [Solution: Pattern 29](/techgig/pattern_29/inv_ast_rig_tri.java)
 <br>
+
+30. Write a program to display a Descending Number Inverted Right Triangle of height **n** provided by user using an Integer input.
+    - [x] [Solution: Pattern 30](/techgig/pattern_30/desc_num_inv_rig_tri.java)
+<br>

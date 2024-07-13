@@ -478,11 +478,28 @@ Rectangle of height n = 5
 Rectangle of height n = 5
 
 ```
-    * * * * *
-      * * * *
-        * * *
-          * *
-            * 
+    5 5 5 5 5
+      4 4 4 4
+        3 3 3
+          2 2
+            1
+```
+</details>
+
+<details>
+    <summary>Pattern 30: Descending Number Inverted Right Triangle
+    </summary>
+
+[Solution](/techgig/pattern_30/desc_num_inv_rig_tri.java)
+
+Rectangle of height n = 5
+
+```
+    5 5 5 5 5
+      4 4 4 4
+        3 3 3
+          2 2
+            1 
 ```
 </details>
 
