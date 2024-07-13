@@ -435,3 +435,20 @@ Rectangle of height n = 5
 ```
 </details>
 
+<details>
+    <summary>Pattern 27: Ascending Alphabet Left Triangle
+    </summary>
+
+[Solution](/techgig/pattern_27/asc_alp_left_tri.java)
+
+Rectangle of height n = 5
+
+```
+           A
+         B B
+       C C C
+     D D D D
+   E E E E E 
+```
+</details>
+
