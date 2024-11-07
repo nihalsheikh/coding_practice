@@ -3,7 +3,7 @@
 making notes on every topic I read, and updating here
 
 <details>
-<summary>## 01. HTML</summary>
+<summary><h2> 01. HTML</h2></summary>
 - [x] Introduction
 - [x] Document Syntax
 - [x] Elements
@@ -19,19 +19,19 @@ making notes on every topic I read, and updating here
 <br>
 
 <details>
-<summary>## 02. C PROGRAMMING LANGUAGE</summary>
+<summary><h2> 02. C PROGRAMMING LANGUAGE </h2></summary>
 - [x] Introduction
 </details>
 <br>
 
 <details>
-<summary>## 03. C++</summary>
+<summary><h2> 03. C++ </h2></summary>
 - [x] Introduction
 <details>
 <br>
 
 <details>
-<summary>## 04. JAVA</sumamry>
+<summary><h2> 04. JAVA </h2></sumamry>
 - [x] Coding Practice
     1. For Loop
         - [x] [Website 1: Begin with Java](https://www.beginwithjava.com/java/loops/questions.html)
