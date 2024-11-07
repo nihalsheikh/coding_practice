@@ -5,29 +5,25 @@ making notes on every topic I read, and updating here
 <details>
 <summary><h2> 01. HTML</h2></summary>
 <ul>
-<li>
-- [x] Introduction
-- [x] Document Syntax
-- [x] Elements
-- [x] Basics
-- [x] Headings
-- [x] Paragraph
-- [x] Links
-- [x] Empty Elements
-- [x] !Case Sensitive
-- [x] Standard Practice
-- [x] Attributes
+<li> - [x] Introduction </li>
+<li> - [x] Document Syntax </li>
+<li> - [x] Elements </li>
+<li> - [x] Basics </li>
+<li> - [x] Headings </li>
+<li> - [x] Paragraph </li>
+<li> - [x] Links </li>
+<li> - [x] Empty Elements </li>
+<li> - [x] !Case Sensitive </li>
+<li> - [x] Standard Practice </li>
+<li> - [x] Attributes </li>
 </ul>
-</li>
 </details>
 <br>
 
 <details>
 <summary><h2> 02. C PROGRAMMING LANGUAGE </h2></summary>
 <ul>
-<li>
-- [x] Introduction
-</li>
+<li> - [x] Introduction </li>
 </ul>
 </details>
 <br>
@@ -35,21 +31,17 @@ making notes on every topic I read, and updating here
 <details>
 <summary><h2> 03. C++ </h2></summary>
 <ul>
-<li>
-- [x] Introduction
+<li> - [x] Introduction </li>
 </ul>
-</li>
 <details>
 <br>
 
 <details>
 <summary><h2> 04. JAVA </h2></sumamry>
 <ul>
-<li>
-- [x] Coding Practice
-    1. For Loop
-        - [x] [Website 1: Begin with Java](https://www.beginwithjava.com/java/loops/questions.html)
-        - [x] [Website 2: TechGig]()
+<li> - [x] Coding Practice </li>
+        <li> 1. For Loop </li>
+                <li> - [x] [Website 1: Begin with Java](https://www.beginwithjava.com/java/loops/questions.html) </li>
+                <li> - [x] [Website 2: TechGig]() </li>
 </ul>
-</li>
 </details>
