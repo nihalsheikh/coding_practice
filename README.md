@@ -37,7 +37,7 @@ making notes on every topic I read, and updating here
 <br>
 
 <details>
-<summary><h2> 04. JAVA </h2></sumamry>
+<summary><h2> 04. JAVA </h2></summary>
 <ul>
 <li> - [x] Coding Practice </li>
 <ol style="margin-left: 40px;"> 1. For Loop
