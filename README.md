@@ -40,7 +40,7 @@ making notes on every topic I read, and updating here
 <summary><h2> 04. JAVA </h2></sumamry>
 <ul>
 <li> - [x] Coding Practice </li>
-        <ol style="margin-left: 20px;"> 1. For Loop
+        <ol style="margin-left: 40px;"> 1. For Loop
             <li>[x] [Website 1: Begin with Java](https://www.beginwithjava.com/java/loops/questions.html) </li>
             <li>[x] [Website 2: TechGig]() </li>
         </ol>
