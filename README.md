@@ -4,7 +4,7 @@ making notes on every topic I read, and updating here
 
 <details>
 <summary>
-### 01. HTML
+## 01. HTML
 </summary>
 - [x] Introduction
 - [x] Document Syntax
@@ -22,7 +22,7 @@ making notes on every topic I read, and updating here
 
 <details>
 <summary>
-### 02. C PROGRAMMING LANGUAGE
+## 02. C PROGRAMMING LANGUAGE
 </summary>
 - [x] Introduction
 </details>
@@ -30,7 +30,7 @@ making notes on every topic I read, and updating here
 
 <details>
 <summary>
-### 03. C++
+## 03. C++
 </summary>
 - [x] Introduction
 <details>
@@ -38,7 +38,7 @@ making notes on every topic I read, and updating here
 
 <details>
 <summary>
-### 04. JAVA
+## 04. JAVA
 </sumamry>
 - [x] Coding Practice
     1. For Loop
