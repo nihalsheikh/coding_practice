@@ -1,0 +1,19 @@
+classDiagram
+    class InputImage
+    class ConvLayer1
+    class MaxPool1
+    class Conv2_x
+    class Conv3_x
+    class Conv4_x
+    class Conv5_x
+    class AvgPool
+    class FCLayer
+
+    InputImage --> ConvLayer1
+    ConvLayer1 --> MaxPool1
+    MaxPool1 --> Conv2_x
+    Conv2_x --> Conv3_x
+    Conv3_x --> Conv4_x
+    Conv4_x --> Conv5_x
+    Conv5_x --> AvgPool
+    AvgPool --> FCLayer
