@@ -30,3 +30,4 @@
 - **Game Engines**
 - **Graphics and GUI development**: Libraries like OpenGL and GTK are used with C to developGraphics application and Graphical User Interfaces
 - **DBMS**: Database Management Systems like MySQL are written in C
+![alt text](image.png)
