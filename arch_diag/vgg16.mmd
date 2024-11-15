@@ -1,0 +1,20 @@
+%%{init: {'theme': 'neutral', 'themeVariables': { 'fontFamily': 'arial', 'primaryColor': '#ffffff', 'primaryTextColor': '#000000', 'primaryBorderColor': '#333', 'lineColor': '#000000', 'secondaryColor': '#f4f4f4', 'tertiaryColor': '#fff'}}}%%
+graph LR
+    classDef default fill:#f9f9f9,stroke:#333,stroke-width:1px
+    classDef conv fill:#e8f5e9,stroke:#333,stroke-width:1px
+    classDef fc fill:#e3f2fd,stroke:#333,stroke-width:1px
+
+    Input[224×224×3] --> B1["2×Conv64"]
+    B1 --> B2["2×Conv128"]
+    B2 --> B3["3×Conv256"]
+    B3 --> B4["3×Conv512"]
+    B4 --> B5["3×Conv512"]
+    B5 --> FC["FC4096<br/>FC4096<br/>FC1000"]
+    FC --> Out["Softmax"]
+
+    subgraph ROpt [Retinal]
+        R1["• CLAHE<br/>• Vessel"]
+    end
+
+    class B1,B2,B3,B4,B5 conv
+    class FC fc
