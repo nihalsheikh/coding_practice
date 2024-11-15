@@ -1,0 +1,19 @@
+%%{init: {'theme': 'neutral', 'themeVariables': { 'fontFamily': 'arial', 'primaryColor': '#ffffff', 'primaryTextColor': '#000000', 'primaryBorderColor': '#333', 'lineColor': '#000000', 'secondaryColor': '#f4f4f4', 'tertiaryColor': '#fff'}}}%%
+graph LR
+    classDef default fill:#f9f9f9,stroke:#333,stroke-width:1px
+    classDef inception fill:#e1f5fe,stroke:#333,stroke-width:1px
+    classDef pool fill:#fff3e0,stroke:#333,stroke-width:1px
+
+    Input[299×299×3] --> Conv["Conv Block"]
+    Conv --> IncA["Inception-A<br/>×3"]
+    IncA --> IncB["Inception-B<br/>×5"]
+    IncB --> IncC["Inception-C<br/>×2"]
+    IncC --> Pool["Global<br/>AvgPool"]
+    Pool --> Out["Softmax"]
+
+    subgraph RetOpt [Retinal Opt.]
+        R1["• Vessel Enh.<br/>• Contrast Norm."]
+    end
+
+    class IncA,IncB,IncC inception
+    class Pool pool
