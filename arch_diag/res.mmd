@@ -1,23 +1,26 @@
-classDiagram
-    note right of class InputImage "Input Image"
-    class ConvLayer1
-    class MaxPool1
-    class Conv2_x
-    class Conv3_x
-    class Conv4_x
-    class Conv5_x
-    class AvgPool
-    class FCLayer
+graph LR;
+    class InputImage
+    class Conv2d_1x1
+    class MaxPool2
+    class InceptionV3
+    class Conv2d_3x3
+    class InceptionBlock
+    class InceptionV3 Block(3)
+    class InceptionV3 Block(4)
+    class InceptionV3 Block(5)
+    class InceptionV3 Block(6)
 
-    style input Image fill:#fff;
-    style . { text-align: left; }
-    style .{ stroke-color: #000; }
-
-    InputImage --> ConvLayer1
-    ConvLayer1 --> MaxPool1
-    MaxPool1 --> Conv2_x
-    Conv2_x --> Conv3_x
-    Conv3_x --> Conv4_x
-    Conv4_x --> Conv5_x
-    Conv5_x --> AvgPool
-    AvgPool --> FCLayer
+    InputImage -->|-> Conv2d_1x1
+    Conv2d_1x1 -->|-> MaxPool2
+    MaxPool2 -->|-> InceptionV3
+    InceptionV3 -->|-> InceptionBlock
+    InceptionBlock -->|-> InceptionV3 Block(3)
+    InceptionV3 Block(3) -->|-> Conv2d_3x3
+    Conv2d_3x3 -->|-> InceptionBlock
+    InceptionBlock -->|-> InceptionV3 Block(4)
+    InceptionV3 Block(4) -->|-> Conv2d_3x3
+    Conv2d_3x3 -->|-> InceptionBlock
+    InceptionBlock -->|-> InceptionV3 Block(5)
+    InceptionV3 Block(5) -->|-> Conv2d_3x3
+    Conv2d_3x3 -->|-> InceptionBlock
+    InceptionBlock -->|-> InceptionV3 Block(6)
