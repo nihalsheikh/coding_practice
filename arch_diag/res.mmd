@@ -1,0 +1,23 @@
+classDiagram
+    note right of class InputImage "Input Image"
+    class ConvLayer1
+    class MaxPool1
+    class Conv2_x
+    class Conv3_x
+    class Conv4_x
+    class Conv5_x
+    class AvgPool
+    class FCLayer
+
+    style input Image fill:#fff;
+    style . { text-align: left; }
+    style .{ stroke-color: #000; }
+
+    InputImage --> ConvLayer1
+    ConvLayer1 --> MaxPool1
+    MaxPool1 --> Conv2_x
+    Conv2_x --> Conv3_x
+    Conv3_x --> Conv4_x
+    Conv4_x --> Conv5_x
+    Conv5_x --> AvgPool
+    AvgPool --> FCLayer
